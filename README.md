@@ -74,7 +74,7 @@ gambar dari website external.
 
 Gambar akan ditampilkan apa adanya sesuai dengan ukuran aslinya. Untuk mengatur ukuran
 gambar, dapat digunakan atribut witdh dan height dengan nilai integer yang disesuaikan.
-disini saya menggunakan "widht= 100"
+disini saya menggunakan "widht= 300"
 
 ![Gambar1](screenshot/ss12.png)
 
