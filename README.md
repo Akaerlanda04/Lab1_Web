@@ -8,7 +8,7 @@ Kelas : TI.20.B.1
 ## Langkah-langkah Praktikum
 Persiapan membuka VSCode dan Browser.
 
-![Gambar1](https://github.com/Akaerlanda04/Lab1_Web/blob/main/screenshoot/Screenshot%202022-03-14%20023325.png)
+![Gambar1](https://github.com/Akaerlanda04/Lab1_Web/blob/main/screenshoot/1.png)
 
 ### Kemudian buat file baru dengan nama lab1_tag_dasar.html dan tambahkan tag dasar dokumen
 HTML.
