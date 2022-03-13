@@ -20,7 +20,7 @@ Ini adalah tampilannya
 
 #### Kemudian selanjutnya, buka file tersebut pada web browser misalnya Mozilla Firefox.
 
-![Gambar1](screenshot/ss3.png)
+![Gambar1](https://github.com/Akaerlanda04/Lab1_Web/blob/main/screenshoot/Screenshot%202022-03-14%20031031.png)
 
 1. Membuat Paragraf
 Selanjutnya buatlah beberapa paragraf sederhana sebagai berikut
