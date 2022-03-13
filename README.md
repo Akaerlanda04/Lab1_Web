@@ -25,21 +25,21 @@ Ini adalah tampilannya
 1. Membuat Paragraf
 Selanjutnya buatlah beberapa paragraf sederhana sebagai berikut
 
-![Gambar1](https://github.com/Akaerlanda04/Lab1_Web/blob/main/screenshoot/Screenshot%202022-03-14%20030002.png)
+![Gambar1](https://github.com/Akaerlanda04/Lab1_Web/blob/main/screenshoot/4.png)
 
  Selanjutnya simpan kembali perubahannya, dan lakukan refresh pada web browser, lihat hasilnya.
 
 Dan hasilnya ada jarak antar paragraf
 
-![Gambar1](https://github.com/Akaerlanda04/Lab1_Web/blob/main/screenshoot/Screenshot%202022-03-14%20031234.png)
+![Gambar1](https://github.com/Akaerlanda04/Lab1_Web/blob/main/screenshoot/5.png)
 
  Kemudian atur atribut paragraf seperti berikut, dan amati perubahanya.
  
-![Gambar1](screenshot/ss6.png)
+![Gambar1](https://github.com/Akaerlanda04/Lab1_Web/blob/main/screenshoot/6.png)
 
 hasilnya kalimat rata ke kanan
 
-![Gambar1](screenshot/ss7.png)
+![Gambar1](https://github.com/Akaerlanda04/Lab1_Web/blob/main/screenshoot/7.png)
 
 Simpan kembali dan amati perubahannya dengan melakukan refresh pada web browser.
 Selanjutnya silakan ubah-ubah nilai atributnya (align => justify, left, right, dan center) untuk melihat
@@ -50,12 +50,12 @@ Seperti sudah dijelaskan pada materi bahwa judul memiliki 6 level yaitu mulai h1
 Kemudian tambahkan judul h1 sebelum paragraf pertama dan tambahkan sub judul h2 sebelum
 paragraf kedua.
 
-![Gambar1](screenshot/ss8.png)
+![Gambar1](https://github.com/Akaerlanda04/Lab1_Web/blob/main/screenshoot/8.png)
 
 
 Simpan perubahannya dan lihat hasilnya dengan melakukan refresh pada browser.
 
-![Gambar1](screenshot/ss9.png)
+![Gambar1](https://github.com/Akaerlanda04/Lab1_Web/blob/main/screenshoot/9.png)
 
 3. Memformat teks
 Lakukan pemformatan teks yang ada pada paragraf yang sudah ada sebelumnya, mengacu kepada
