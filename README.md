@@ -16,7 +16,7 @@ HTML.
 
 Ini adalah tampilannya
 
-![Gambar1](screenshot/ss2.png)
+![Gambar1](https://github.com/Akaerlanda04/Lab1_Web/blob/main/screenshoot/Screenshot%202022-03-14%20042536.png)
 
 #### Kemudian selanjutnya, buka file tersebut pada web browser misalnya Mozilla Firefox.
 
