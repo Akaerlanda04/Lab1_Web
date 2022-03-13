@@ -25,7 +25,7 @@ Ini adalah tampilannya
 1. Membuat Paragraf
 Selanjutnya buatlah beberapa paragraf sederhana sebagai berikut
 
-![Gambar1](screenshot/ss4.png)
+![Gambar1](https://github.com/Akaerlanda04/Lab1_Web/blob/main/screenshoot/Screenshot%202022-03-14%20030002.png)
 
  Selanjutnya simpan kembali perubahannya, dan lakukan refresh pada web browser, lihat hasilnya.
 
