@@ -31,7 +31,7 @@ Selanjutnya buatlah beberapa paragraf sederhana sebagai berikut
 
 Dan hasilnya ada jarak antar paragraf
 
-![Gambar1](screenshot/ss5.png)
+![Gambar1](https://github.com/Akaerlanda04/Lab1_Web/blob/main/screenshoot/Screenshot%202022-03-14%20031234.png)
 
  Kemudian atur atribut paragraf seperti berikut, dan amati perubahanya.
  
