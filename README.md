@@ -37,7 +37,7 @@ Dan hasilnya ada jarak antar paragraf
  
 ![Gambar1](https://github.com/Akaerlanda04/Lab1_Web/blob/main/screenshoot/6.png)
 
-hasilnya kalimat rata ke kanan
+hasilnya kalimat paragraf pertama rata tengah dan paragraf ke 2 rata kanan
 
 ![Gambar1](https://github.com/Akaerlanda04/Lab1_Web/blob/main/screenshoot/7.png)
 
