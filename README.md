@@ -1,7 +1,7 @@
 # Praktikum Pemograman Web
 Nama  : Aka Erlanda
 
-Nim   : 312010244
+Nim   : 312010207
 
 Kelas : TI.20.B.1
 
@@ -61,7 +61,7 @@ Simpan perubahannya dan lihat hasilnya dengan melakukan refresh pada browser.
 Lakukan pemformatan teks yang ada pada paragraf yang sudah ada sebelumnya, mengacu kepada
 penjelasan materi pemformatan teks, sehingga tampilannya seperti berikut.
 
-![Gambar1](screenshot/ss10.png)
+![Gambar1](https://github.com/Akaerlanda04/Lab1_Web/blob/main/screenshoot/10.png)
 
 4. Menyisipkan Gambar
 
